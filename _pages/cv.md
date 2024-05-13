@@ -34,26 +34,36 @@ Curriculum vitae - Anupam Anand Ojha
 - **2012-2017** Innovation in Science Pursuit for Inspired Research (INSPIRE) Fellowship
 - **2017** Swiss Government Excellence Scholarship
 
-
-Education
-======
-* Sept. 2019 - June 2024: Doctor of Philosophy in Chemistry, University of California San Diego
-  * Merck Research Award for Underrepresented Chemists of Color (2024)
-  * Merkin Graduate Fellowship (2023)
-  * Teddy Traylor Award (2023)
-  * Distinguished Graduate Student Fellowship (2022)
-  * Bonnie Reiss Carbon Neutrality Student Fellowship (2021)
-  * Friends of the International Center Fellowship (2021)
-    
-* Aug. 2012 – June 2017: BS-MS, IISER Thiruvananthapuram
-  * Innovation in Science Pursuit for Inspired Research (INSPIRE) Fellowship (2012-2017)
-  * Swiss Government Excellence Scholarship (2017)
  
 Skills
 ======
 * Programming: Python, MATLAB, R, MATHEMATICA, LATEX, AWK
 * Software Proficiency: Amber, MOE, CHARMM, NAMD, ORCA, MOLPRO, VASP, Quantum ESPRESSO, Gaussian, RDKit, OpenEye, MOLDEN, COMSOL, VESTA, PyMOL, Chemcraft, Schrodinger, VCell, MCell, BrownDye, VMD, APBS, Avogadro, Gnuplot, RStudio, Jupyter, Spyder, Tableau, GitHub, cryoDRGN, RELION, cryoSPARC, OpenMM, AutoDock Vina, Q-Chem, rDock
 * AI/ML Technologies: PyTorch, TensorFlow, Keras, scikit-learn
+
+# Industry Work Experience
+
+## Multiscale Modeling Scientist Intern
+**Genentech, Inc., San Francisco, CA, USA**  
+*June 2024 - September 2024*
+
+- Perform multi-scale molecular dynamics simulations for protein-protein and protein-ligand interactions, including large and conformational transitions.
+- Build computational workflow to accelerate MD simulations using enhanced and adaptive sampling techniques.
+
+## Computer-Aided Drug Design Intern
+**Janssen Pharmaceutical Companies of Johnson and Johnson, La Jolla, CA, USA**  
+*June 2023 - August 2023*
+
+- Employed MSM, deep learning, and enhanced sampling methods to determine cellular permeability and rank ordering of protein degraders.
+- Developed an end-to-end Python-based workflow for blind cellular permeability prediction of beyond rule-of-five protein degraders.
+
+## Research and Early Development Intern
+**Genentech, Inc., San Francisco, CA, USA**  
+*June 2022 - September 2022*
+
+- Performed enhanced MD simulations and MSM analysis on protein degraders to calculate transition rates between metastable states.
+- Developed an end-to-end Python framework to generate customizable force field parameters for protein degraders.
+
 
 Industry Work Experience
 ======
