@@ -11,7 +11,7 @@ The binding mechanism of the probe to copper ions was substantiated by DFT studi
 electronic density resides on oxygen and nitrogen atoms, and thus, these are the favorable binding sites for the metal ions.'
 date: 2019-07-05
 venue: 'Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy, ScienceDirect'
-paperurl: '/files/paper3.pdf'
+paperurl: 'http://anandojha.github.io/files/paper3.pdf'
 citation: 'Halali V. Vishaka, Manav Saxena, H. R. Chandan, Anupam Anand Ojha, and R. Geetha Balakrishna. "Paper based field deployable sensor for naked eye 
 monitoring of copper (II) ions; elucidation of binding mechanism by DFT studies." Spectrochimica Acta Part A: Molecular and Biomolecular 
 Spectroscopy 223 (2019): 117291.'
