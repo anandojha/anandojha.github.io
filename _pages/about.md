@@ -27,23 +27,21 @@ During my undergraduate studies, my research focused on interdisciplinary scienc
 
 During my Ph.D. research, I have addressed the challenge of accurately predicting the kinetic and thermodynamic properties of complex biomolecular systems. I am one of the lead developers of the state-of-the-art programs in our research laboratory, i.e., SEEKR (Simulation Enabled Estimation of Kinetic Rates), which utilizes Markovian milestoning with Voronoi tessellations approach within the multiscale framework of simulations to enhance simulation efficiency and accurately determining receptor-ligand (un)binding kinetic rates, offering significant advantages in drug discovery. My contributions extended to developing the QMrebind (Quantum Mechanical force field reparameterization at the receptor-ligand binding site) method, which significantly improves the precision of force fields by incorporating quantum mechanical methods into the already existing multiscale simulations in the SEEKR program, providing more accurate estimates of drug-target residence times. Furthermore, I developed the hybrid GaMD-WE (Gaussian accelerated molecular dynamics - weighted ensemble) method, integrating GaMD with the weighted ensemble approach to efficiently sample both the thermodynamic and kinetic properties of interest, exhibiting better performance for complex systems than the conventional simulation methods. I recently developed the DeepWEST (Deep learning for the Weighted Ensemble Simulation Toolkit) method, which employed deep-learned Markov state models and weighted ensemble simulations for data-driven conformational sampling. This approach substantially improved the estimation of kinetics and thermodynamics for complex biomolecular systems. My research findings throughout my Ph.D. have been published in ten peer-reviewed journals, underscoring my commitment to advancing the field of theoretical and computational biophysics, with a specific focus on driving progress in drug discovery and research.
 
-## Publications
-
 **(i) QMrebind: Incorporating quantum mechanical force field reparameterization at the ligand binding site for improved drug-target kinetics through milestoning simulations**
 
 The QMrebind method improves the accuracy of multiscale milestoning simulations for receptor-ligand unbinding kinetics by quantum mechanically reparameterizing ligand charges at the binding site. By integrating the QMrebind scheme within the milestoning framework, the study successfully achieved precise kinetic rate predictions for a series of Hsp90-inhibitor complexes compared to simulations using generic force fields, underscoring the potential of quantum mechanical refinement in simulation accuracy. As the lead author of this study, I conceptualized integrating the quantum mechanical reparameterization scheme into the multiscale milestoning simulation approach, aiming to refine the kinetic estimates of receptor-ligand interactions, led the QMrebind software development and modeled the Hsp90-inhibitor complexes prior to simulation. I conducted QM/MM multiscale simulations for a series of Hsp90-inhibitor complexes, trajectory visualization, post-simulation analysis, and residence time calculations for a series of Hsp90-inhibitor complexes.
 
-Anupam Anand Ojha, Lane William Votapka, and Rommie Amaro. "[QMrebind: Incorporating quantum mechanical force field reparameterization at the ligand binding site for improved drug-target kinetics through milestoning simulations.](https://doi.org/10.1039/D3SC04195F)" *Chemical Science, RSC; 2023; DOI: 10.1039/D3SC04195F*.
+### Publications
+
+(a) Anupam Anand Ojha, Lane William Votapka, and Rommie Amaro. "QMrebind: Incorporating quantum mechanical force field reparameterization at the ligand binding site for improved drug-target kinetics through milestoning simulations." *Chemical Science, RSC; 2023;* [DOI: 10.1039/D3SC04195F](https://doi.org/10.1039/D3SC04195F).
 
 **(ii) DeepWEST: Deep Learning of Kinetic Models with the Weighted Ensemble Simulation Toolkit for Enhanced Sampling**
 
 The DeepWEST approach is a novel method that combines deep-learned Markov state models (MSMs) with the weighted ensemble (WE) simulations to enhance the sampling of kinetic models in molecular dynamics (MD) simulations. Its novelty lies in utilizing short unbiased MD trajectories and deep learning to identify statistically significant metastable states as starting structures to WE simulations, resulting in a faster and more accurate estimation of kinetic properties with less computational demand than existing methods. This hybrid approach significantly improves the sampling of rare events in biomolecular complexes and offers an automated end-to-end workflow, showcasing superior performance on complex biomolecular systems. As the lead author of this study, I conceptualized integrating the deep-learning algorithms based on the Variational approach for Markov processes (VAMP) with the weighted ensemble simulations for faster kinetic estimates of biomolecular complexes. I led the DeepWEST software development and conducted WE simulations for alanine dipeptide, chignolin, and NTL9 systems, trajectory visualization, post-simulation analysis, and transition rate calculations between the metastable states of these systems.
 
-Anupam Ojha, Saumya Thakur, Surl-Hee Ahn, and Rommie E. Amaro. "[DeepWEST: Deep Learning of Kinetic Models with the Weighted Ensemble Simulation Toolkit for Enhanced Sampling.](https://doi.org/10.1021/acs.jctc.2c00282)" *Journal of Chemical Theory and Computation, ACS; 2023; DOI: 10.1021/acs.jctc.2c00282*.
+### Publications
 
-# Graduate Career (Ph.D. Research)
-
-During my Ph.D. research, I have addressed the challenge of accurately predicting the kinetic and thermodynamic properties of complex biomolecular systems. I am one of the lead developers of the state-of-the-art programs in our research laboratory, i.e., SEEKR (Simulation Enabled Estimation of Kinetic Rates), which utilizes Markovian milestoning with Voronoi tessellations approach within the multiscale framework of simulations to enhance simulation efficiency and accurately determining receptor-ligand (un)binding kinetic rates, offering significant advantages in drug discovery. My contributions extended to developing the QMrebind (Quantum Mechanical force field reparameterization at the receptor-ligand binding site) method, which significantly improves the precision of force fields by incorporating quantum mechanical methods into the already existing multiscale simulations in the SEEKR program, providing more accurate estimates of drug-target residence times. Furthermore, I developed the hybrid GaMD-WE (Gaussian accelerated molecular dynamics - weighted ensemble) method, integrating GaMD with the weighted ensemble approach to efficiently sample both the thermodynamic and kinetic properties of interest, exhibiting better performance for complex systems than the conventional simulation methods. I recently developed the DeepWEST (Deep learning for the Weighted Ensemble Simulation Toolkit) method, which employed deep-learned Markov state models and weighted ensemble simulations for data-driven conformational sampling. This approach substantially improved the estimation of kinetics and thermodynamics for complex biomolecular systems. My research findings throughout my Ph.D. have been published in ten peer-reviewed journals, underscoring my commitment to advancing the field of theoretical and computational biophysics, with a specific focus on driving progress in drug discovery and research.
+(a) Anupam Ojha, Saumya Thakur, Surl-Hee Ahn, and Rommie E. Amaro. "DeepWEST: Deep Learning of Kinetic Models with the Weighted Ensemble Simulation Toolkit for Enhanced Sampling." *Journal of Chemical Theory and Computation, ACS; 2023;* [DOI: 10.1021/acs.jctc.2c00282](https://doi.org/10.1021/acs.jctc.2c00282).
 
 ## (iii) Selectivity and rank ordering of tight-binding JAK-STAT pathway inhibitors using Markovian milestoning with Voronoi tessellation simulations
 
@@ -51,7 +49,7 @@ A multiscale simulation method, i.e., Markovian milestoning with Voronoi tessell
 
 ### Publications
 
-- Anupam Ojha, Ambuj Srivastava, Lane Votapka, and Rommie Amaro. "[Selectivity and rank ordering of tight-binding JAK-STAT pathway inhibitors using Markovian milestoning with Voronoi tessellation simulations](https://doi.org/10.1021/acs.jcim.2c01589)." *Journal of Chemical Information and Modeling, ACS; 2023; DOI: 10.1021/acs.jcim.2c01589*.
+(a) Anupam Ojha, Ambuj Srivastava, Lane Votapka, and Rommie Amaro. "Selectivity and rank ordering of tight-binding JAK-STAT pathway inhibitors using Markovian milestoning with Voronoi tessellation simulations." *Journal of Chemical Information and Modeling, ACS; 2023;* [DOI: 10.1021/acs.jcim.2c01589](https://doi.org/10.1021/acs.jcim.2c01589).
 
 ## (iv) Gaussian-Accelerated Molecular Dynamics with the Weighted Ensemble Method: A Hybrid Method Improves Thermodynamic and Kinetic Sampling
 
@@ -59,7 +57,7 @@ GaMD-WE is a novel hybrid sampling method combining Gaussian-accelerated molecul
 
 ### Publications
 
-- Surl-Hee Ahn, Anupam Ojha, Rommie E. Amaro, and J. Andrew McCammon. "[Gaussian-Accelerated Molecular Dynamics with the Weighted Ensemble Method: A Hybrid Method Improves Thermodynamic and Kinetic Sampling](https://doi.org/10.1021/acs.jctc.1c00770)." *Journal of Chemical Theory and Computation, ACS; 2021; DOI: 10.1021/acs.jctc.1c00770* (Co-Authors).
+(a) Surl-Hee Ahn, Anupam Ojha, Rommie E. Amaro, and J. Andrew McCammon. "Gaussian-Accelerated Molecular Dynamics with the Weighted Ensemble Method: A Hybrid Method Improves Thermodynamic and Kinetic Sampling." *Journal of Chemical Theory and Computation, ACS; 2021;* [DOI: 10.1021/acs.jctc.1c00770](https://doi.org/10.1021/acs.jctc.1c00770) (Co-Authors).
 
 ## (v) Predicting ligand binding kinetics using a Markovian milestoning with Voronoi tessellations multiscale approach
 
@@ -67,12 +65,17 @@ In 2017, we introduced a novel implementation of a Markovian milestoning with Vo
 
 ### Publications
 
-- Anupam Ojha, Lane Votapka, Gary Huber, Shang Gao, and Rommie Amaro. "[An introductory tutorial to the SEEKR2 (Simulation enabled estimation of kinetic rates v. 2) multiscale milestoning software](https://doi.org/l10.33011/livecoms.5.1.2359) [Article v1.0]." *Living Journal of Computational Molecular Science; 2024; DOI: l10.33011/livecoms.5.1.2359*.
-- Lane Votapka, Andrew Stokely, Anupam Ojha, and Rommie Amaro. "[SEEKR2: Versatile Multiscale Milestoning Utilizing the OpenMM Molecular Dynamics Engine](https://doi.org/10.1021/acs.jcim.2c00501)." *Journal of Chemical Information and Modeling, ACS; 2022; DOI: 10.1021/acs.jcim.2c00501*.
-- Benjamin R. Jagger, Anupam Ojha, and Rommie Amaro. "[Predicting ligand binding kinetics using a Markovian milestoning with voronoi tessellations multiscale approach](https://doi.org/10.1021/acs.jctc.0c00495)." *Journal of Chemical Theory and Computation, ACS; 2020; DOI: 10.1021/acs.jctc.0c00495*.
+(a) Anupam Ojha, Lane Votapka, Gary Huber, Shang Gao, and Rommie Amaro. "An introductory tutorial to the SEEKR2 (Simulation enabled estimation of kinetic rates v. 2) multiscale milestoning software." Living Journal of Computational Molecular Science; 2024; DOI: l10.33011/livecoms.5.1.2359.
+
+(b) Lane Votapka, Andrew Stokely, Anupam Ojha, and Rommie Amaro. "SEEKR2: Versatile Multiscale Milestoning Utilizing the OpenMM Molecular Dynamics Engine." Journal of Chemical Information and Modeling, ACS; 2022; DOI: 10.1021/acs.jcim.2c00501.
+
+(c) Benjamin R. Jagger, Anupam Ojha, and Rommie Amaro. "Predicting ligand binding kinetics using a Markovian milestoning with voronoi tessellations multiscale approach." Journal of Chemical Theory and Computation, ACS; 2020; DOI: 10.1021/acs.jctc.0c00495.
 
 ## Other Noteworthy Publications
 
-- Xandra Nuqui, Lorenzo Casalino, Ling Zhou, Mohamed Shehata, Albert Wang, Alexandra L. Tse, Anupam Ojha, Fiona L. Kearns, Mia A. Rosenfeld, Emily Happy Miller, Cory M. Acreman, Surl-Hee Ahn, Kartik Chandran, Jason S. McLellan, Rommie E Amaro. "[Simulation-Driven Design of Stabilized SARS-CoV-2 Spike S2 Immunogens](https://doi.org/10.1101/2023.10.24.563841)." *bioRxiv; 2023; DOI: 10.1101/2023.10.24.563841*.
-- Anisha Nigam, Jeremiah D. Momper, Anupam Ojha, and Sanjay Nigam. "[Distinguishing Molecular Properties of OAT, OATP, and MRP Drug Substrates by Machine Learning](https://doi.org/10.3390/pharmaceutics16050592)." *Pharmaceutics, MDPI; 2024; DOI: 10.3390/pharmaceutics16050592*.
-- Anisha K. Nigam, Anupam Ojha, Julia G. Li, Da Shi, Vibha Bhatnagar, Kabir B. Nigam, Ruben Abagyan, and Sanjay K. Nigam. "[Molecular
+(a) Xandra Nuqui, Lorenzo Casalino, Ling Zhou, Mohamed Shehata, Albert Wang, Alexandra L. Tse, Anupam Ojha, Fiona L. Kearns, Mia A. Rosenfeld, Emily Happy Miller, Cory M. Acreman, Surl-Hee Ahn, Kartik Chandran, Jason S. McLellan, Rommie E Amaro. "Simulation-Driven Design of Stabilized SARS-CoV-2 Spike S2 Immunogens." bioRxiv; 2023; DOI: 10.1101/2023.10.24.563841.
+
+(b) Anisha Nigam, Jeremiah D. Momper, Anupam Ojha, and Sanjay Nigam. "Distinguishing Molecular Properties of OAT, OATP, and MRP Drug Substrates by Machine Learning." Pharmaceutics, MDPI; 2024; DOI: 10.3390/pharmaceutics16050592.
+
+(c) Anisha K. Nigam, Anupam Ojha, Julia G. Li, Da Shi, Vibha Bhatnagar, Kabir B. Nigam, Ruben Abagyan, and Sanjay K. Nigam. "Molecular Properties of Drugs Handled by Kidney OATs and Liver OATPs Revealed by Chemoinformatics and Machine Learning: Implications for Kidney and Liver Disease." Pharmaceutics, MDPI; 2021; DOI: 10.3390/pharmaceutics13101720 (Co-Authors).
+
