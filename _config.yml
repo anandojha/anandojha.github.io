@@ -1,9 +1,9 @@
 # Welcome to Jekyll!
 #
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
+# This config file is meant for settings that affect the entire site, values
+# which we are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when we use
+# `jekyll serve -l -H localhost`. If we change this file, please restart the 
 # server process.
 
 # Basic Site Settings
@@ -12,9 +12,9 @@ title                    : "Anupam Anand Ojha"
 title_separator          : "-"
 name                     : &name "Anupam Anand Ojha"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+url                      : https://anandojha.github.io # the base hostname & protocol for our site 
+baseurl                  : "" # the subpath of our site, e.g. "/blog"
+repository               : "anandojha/anandojha.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,14 +24,14 @@ author:
   avatar           : "aaojha.jpeg"
   name             : "Anupam Anand Ojha"
   pronouns         : # example: "she/her"  
-  bio              : "Computational Biophysicist | Structural Biologist"
+  bio              : "Computational Biophysicist"
   location         : "San Diego, CA"
   employer         : "UC San Diego"
   uri              : # URL
   email            : "anandojha.002@gmail.com" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
+  arxiv            : # URL 
   googlescholar    : "https://scholar.google.com/citations?user=BQ0WKs8AAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0001-6588-3092"
@@ -39,12 +39,12 @@ author:
   researchgate     : "https://www.researchgate.net/profile/A-Anand-Ojha"
 
   # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
+  bitbucket        : # Username 
   codepen          : # Username
   dribbble         : # Username
   github           : "anandojha"
   kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  stackoverflow    : # Username  
 
   # Social media
   bluesky          : #
@@ -74,7 +74,7 @@ author:
 
 
 # Site Settings
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : # filename of teaser fallback teaser image to be placed in /images/
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -125,7 +125,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
