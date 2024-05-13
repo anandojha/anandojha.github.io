@@ -14,7 +14,7 @@ due to the larger pore diameters of the NU-1000. Theoretical calculations reveal
 the nodes of NU-1000 is higher compared to UiO-67, which might be the possible reason for the higher efficiency of NU-1000.'
 date: 2018-07-12
 venue: 'ACS Omega'
-paperurl: '/files/paper2.pdf'
+paperurl: 'http://anandojha.github.io/files/paper2.pdf'
 citation: 'Asha Pankajakshan, Mekhola Sinha, Anupam Anand Ojha, and Sukhendu Mandal. "Water-stable nanoscale zirconium-based metal–organic frameworks for the effective removal of glyphosate from aqueous media." ACS omega 3, no. 7 (2018): 7832-7839.'
 ---
 
