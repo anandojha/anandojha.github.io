@@ -17,7 +17,7 @@ and thermodynamic properties of JAK–inhibitor complexes in a user-friendly, fa
 brute force and hybrid-enhanced sampling approaches.'
 date: 2023-04-06
 venue: 'Journal of Chemical Information and Modeling, ACS'
-paperurl: '/files/paper9.pdf'
+paperurl: 'http://anandojha.github.io/files/paper9.pdf'
 citation: 'Anupam Anand Ojha, Ambuj Srivastava, Lane William Votapka, and Rommie E. Amaro. "Selectivity and ranking of
 tight-binding JAK-STAT inhibitors using Markovian milestoning with Voronoi tessellations." Journal of Chemical Information and 
 Modeling 63, no. 8 (2023): 2469-2482.'
