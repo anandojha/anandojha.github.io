@@ -75,14 +75,17 @@ Curriculum vitae - Anupam Anand Ojha
 
 ### Graduate Research Assistant, Department of Chemistry and Biochemistry, UC San Diego, San Diego, CA, USA
 **November 2019 - June 2024**
-- Published/submitted 11 research publications since 2020, with 7 first-author publications showcasing distinctive research understanding and scientific writing capabilities.
-- **Method and Software Development Projects in Biophysics**
+
+Published/submitted 11 research publications since 2020, with 7 first-author publications showcasing distinctive research understanding and scientific writing capabilities.
+
+**Method and Software Development Projects in Biophysics**
   - Developed the Markovian milestoning with Voronoi tessellations (MMVT) approach within the Simulation Enabled Estimation of Kinetic Rates (SEEKR) project, improving efficiency of computational predictions of drug-target (un)binding kinetics by 10-fold.
   - Developed QMrebind, a method to quantum mechanically reparameterize force field parameters at the drug-target bound state to accurately predict drug-residence times with a multiscale milestoning approach.
   - Developed GaMD-WE, a hybrid approach combining Gaussian-accelerated molecular dynamics (GaMD) and weighted ensemble (WE) simulations, enabling accurate and rapid sampling of thermodynamic and kinetic properties of biomolecular complexes by 2-fold.
   - Developed DeepWEST, a hybrid method combining deep learning, Markov state models (MSM), and weighted ensemble (WE) simulations, improving the estimation of kinetic and thermodynamic properties of complex biomolecules.
   - Employed chemoinformatics and machine learning to identify 8 physicochemical properties differentiating liver OATP- and kidney OAT-transported drugs, offering a molecular basis for informed drug selection.
-- **Molecular Dynamics Simulation of Biomolecular Complexes**
+    
+ **Molecular Dynamics Simulation of Biomolecular Complexes**
   - Employed Markovian milestoning with Voronoi tessellations (MMVT) multiscale simulation approach to elucidate selectivity of JAK2 over JAK3 inhibitors and successful rank ordering of 8 JAK-inhibitors by their residence time.
   - Employed a two-phase approach with long-scale Gaussian-accelerated molecular dynamics (GaMD) and weighted ensemble (WE) simulations to investigate the allosteric and dynamical effects of 5 disease-associated single-point LRRK2 mutations, providing insights for therapeutic interventions.
   - Employed long-scale weighted ensemble (WE) simulations on SARS-CoV-2 spike protein to identify stabilizing mutations providing a more stable and immunogenic S2 construct.
