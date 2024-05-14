@@ -34,9 +34,9 @@ During my Ph.D. research, I have addressed the challenge of accurately predictin
 
 The QMrebind method improves the accuracy of multiscale milestoning simulations for receptor-ligand unbinding kinetics by quantum mechanically reparameterizing ligand charges at the binding site. By integrating the QMrebind scheme within the milestoning framework, the study successfully achieved precise kinetic rate predictions for a series of Hsp90-inhibitor complexes compared to simulations using generic force fields, underscoring the potential of quantum mechanical refinement in simulation accuracy. As the lead author of this study, I conceptualized integrating the quantum mechanical reparameterization scheme into the multiscale milestoning simulation approach, aiming to refine the kinetic estimates of receptor-ligand interactions, led the QMrebind software development and modeled the Hsp90-inhibitor complexes prior to simulation. I conducted QM/MM multiscale simulations for a series of Hsp90-inhibitor complexes, trajectory visualization, post-simulation analysis, and residence time calculations for a series of Hsp90-inhibitor complexes.
 
-## Publications
+### Publications
 
-<small> Anupam Anand Ojha, Lane William Votapka, and Rommie Amaro. "QMrebind: Incorporating quantum mechanical force field reparameterization at the ligand binding site for improved drug-target kinetics through milestoning simulations." *Chemical Science, RSC; 2023;* [DOI: 10.1039/D3SC04195F](https://doi.org/10.1039/D3SC04195F). 
+<medium> Anupam Anand Ojha, Lane William Votapka, and Rommie Amaro. "QMrebind: Incorporating quantum mechanical force field reparameterization at the ligand binding site for improved drug-target kinetics through milestoning simulations." *Chemical Science, RSC; 2023;* [DOI: 10.1039/D3SC04195F](https://doi.org/10.1039/D3SC04195F). 
 
 ### ii. DeepWEST: Deep Learning of Kinetic Models with the Weighted Ensemble Simulation Toolkit for Enhanced Sampling
 
