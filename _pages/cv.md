@@ -121,12 +121,12 @@ Curriculum vitae - Anupam Anand Ojha
 <hr style="height: 4px; border: none; background-color: black;">
 
 ### Merck Research Award for Underrepresented Chemists of Color (2024)
-** This award recognizes significant contributions to chemical sciences and commitment to diversity in the field.**
+**Award recognizing significant contributions of underrepresented chemists of color to chemical sciences and commitment to diversity in the field.**
 
 The Merck Research Award for Underrepresented Chemists of Color exemplifies Merck's commitment to fostering diversity and inclusion in the scientific community. This prestigious award recognizes the outstanding contributions of young researchers to chemical sciences and provides opportunities for career development and networking within the scientific community. Award recipients gain access to mentorship from experienced professionals at Merck, who provide guidance, feedback, and valuable connections relevant to their research. Award recipients present their work at an award symposium, where they showcase their research to peers and mentors. 
 
 ### Merkin Graduate Fellowship, UC San Diego (2023)
-** $50,000 fellowship recognizing outstanding research excellence and financial support for conducting translational medicine research abroad and building international collaborations.**
+**$50,000 fellowship recognizing outstanding research excellence and financial support for conducting translational medicine research abroad and building international collaborations.**
 
 The Merkin Graduate Fellows Program offers a unique opportunity for UC San Diego graduate students to conduct innovative research abroad in areas related to human health and longevity. As a Merkin Graduate Fellow, students collaborate with researchers globally, aiming to drive bold advancements in medical research and clinical applications while shaping their personal and professional trajectory. This prestigious award includes a monthly stipend, funding for travel, and tuition coverage, enabling them to pursue transformative experiences in translational medicine.
 
@@ -137,7 +137,9 @@ The Merkin Graduate Fellows Program offers a unique opportunity for UC San Diego
 - $17,000 fellowship acknowledging exceptional research, providing comprehensive financial support for university fees and a research travel grant.
 
 ### Bonnie Reiss Carbon Neutrality Student Fellowship (2021)
-- $4,000 fellowship for contributing to the university goal of achieving zero net greenhouse gas emissions by 2025.
+**$4,000 fellowship for contributing to the university goal of achieving zero net greenhouse gas emissions by 2025.**
+
+The UC President’s Bonnie Reiss Climate Action Fellowship Program empowers students to lead initiatives that advance the UC system's climate action objectives. Open to both undergraduate and graduate students across all UC campuses, academic health centers, and affiliated institutions, this program fosters innovation and collaboration to address local climate challenges. Named in honor of the late Regent Bonnie Reiss, a fervent advocate for climate mitigation, the fellowship ensures that students' efforts contribute to her enduring legacy of environmental stewardship.
 
 ### Friends of the International Center Fellowship (2021)
 - $2,000 fellowship for outstanding graduate students pursuing international education, fostering friendship and cooperation within the global community.
@@ -156,7 +158,6 @@ The Merkin Graduate Fellows Program offers a unique opportunity for UC San Diego
 
 ### Reviewer for the Journal of Biomolecular Structure and Dynamics
 **November 2022 - Present**
-Reviewer for the Journal of Biomolecular Structure and Dynamics.
 
 ### UC San Diego Chemistry International Friendship Group (CIFG) representative
 **July 2023 - June 2024**
