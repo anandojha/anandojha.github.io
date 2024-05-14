@@ -65,17 +65,16 @@ In 2017, we introduced a novel implementation of a Markovian milestoning with Vo
 
 ### Publications
 
-i. Anupam Ojha, Lane Votapka, Gary Huber, Shang Gao, and Rommie Amaro. "An introductory tutorial to the SEEKR2 (Simulation enabled estimation of kinetic rates v. 2) multiscale milestoning software." Living Journal of Computational Molecular Science; 2024; DOI: l10.33011/livecoms.5.1.2359.
+<span style="color:red"> i. Anupam Ojha, Lane Votapka, Gary Huber, Shang Gao, and Rommie Amaro. "An introductory tutorial to the SEEKR2 (Simulation enabled estimation of kinetic rates v. 2) multiscale milestoning software." *Living Journal of Computational Molecular Science; 2024;* [DOI: l10.33011/livecoms.5.1.2359](https://doi.org/l10.33011/livecoms.5.1.2359).
 
-ii. Lane Votapka, Andrew Stokely, Anupam Ojha, and Rommie Amaro. "SEEKR2: Versatile Multiscale Milestoning Utilizing the OpenMM Molecular Dynamics Engine." Journal of Chemical Information and Modeling, ACS; 2022; DOI: 10.1021/acs.jcim.2c00501.
+<span style="color:red"> ii. Lane Votapka, Andrew Stokely, Anupam Ojha, and Rommie Amaro. "SEEKR2: Versatile Multiscale Milestoning Utilizing the OpenMM Molecular Dynamics Engine." *Journal of Chemical Information and Modeling, ACS; 2022;* [DOI: 10.1021/acs.jcim.2c00501](https://doi.org/10.1021/acs.jcim.2c00501).
 
-iii. Benjamin R. Jagger, Anupam Ojha, and Rommie Amaro. "Predicting ligand binding kinetics using a Markovian milestoning with voronoi tessellations multiscale approach." Journal of Chemical Theory and Computation, ACS; 2020; DOI: 10.1021/acs.jctc.0c00495.
+<span style="color:red"> iii. Benjamin R. Jagger, Anupam Ojha, and Rommie Amaro. "Predicting ligand binding kinetics using a Markovian milestoning with Voronoi tessellations multiscale approach." *Journal of Chemical Theory and Computation, ACS; 2020;* [DOI: 10.1021/acs.jctc.0c00495](https://doi.org/10.1021/acs.jctc.0c00495).
 
 ### Other Noteworthy Publications
 
-<span style="color:red"> i. Xandra Nuqui, Lorenzo Casalino, Ling Zhou, Mohamed Shehata, Albert Wang, Alexandra L. Tse, Anupam Ojha, Fiona L. Kearns, Mia A. Rosenfeld, Emily Happy Miller, Cory M. Acreman, Surl-Hee Ahn, Kartik Chandran, Jason S. McLellan, Rommie E Amaro. "Simulation-Driven Design of Stabilized SARS-CoV-2 Spike S2 Immunogens." bioRxiv; 2023; DOI: 10.1101/2023.10.24.563841.
+<span style="color:red"> i. Xandra Nuqui, Lorenzo Casalino, Ling Zhou, Mohamed Shehata, Albert Wang, Alexandra L. Tse, Anupam Ojha, Fiona L. Kearns, Mia A. Rosenfeld, Emily Happy Miller, Cory M. Acreman, Surl-Hee Ahn, Kartik Chandran, Jason S. McLellan, Rommie E Amaro. "Simulation-Driven Design of Stabilized SARS-CoV-2 Spike S2 Immunogens." *bioRxiv; 2023;* [DOI: 10.1101/2023.10.24.563841](https://doi.org/10.1101/2023.10.24.563841).
 
-<span style="color:red"> ii. Anisha Nigam, Jeremiah D. Momper, Anupam Ojha, and Sanjay Nigam. "Distinguishing Molecular Properties of OAT, OATP, and MRP Drug Substrates by Machine Learning." Pharmaceutics, MDPI; 2024; DOI: 10.3390/pharmaceutics16050592.
+<span style="color:red"> ii. Anisha Nigam, Jeremiah D. Momper, Anupam Ojha, and Sanjay Nigam. "Distinguishing Molecular Properties of OAT, OATP, and MRP Drug Substrates by Machine Learning." *Pharmaceutics, MDPI; 2024;* [DOI: 10.3390/pharmaceutics16050592](https://doi.org/10.3390/pharmaceutics16050592).
 
-<span style="color:red"> iii. Anisha K. Nigam, Anupam Ojha, Julia G. Li, Da Shi, Vibha Bhatnagar, Kabir B. Nigam, Ruben Abagyan, and Sanjay K. Nigam. "Molecular Properties of Drugs Handled by Kidney OATs and Liver OATPs Revealed by Chemoinformatics and Machine Learning: Implications for Kidney and Liver Disease." Pharmaceutics, MDPI; 2021; DOI: 10.3390/pharmaceutics13101720 (Co-Authors).
-
+<span style="color:red"> iii. Anisha K. Nigam, Anupam Ojha, Julia G. Li, Da Shi, Vibha Bhatnagar, Kabir B. Nigam, Ruben Abagyan, and Sanjay K. Nigam. "Molecular Properties of Drugs Handled by Kidney OATs and Liver OATPs Revealed by Chemoinformatics and Machine Learning: Implications for Kidney and Liver Disease." *Pharmaceutics, MDPI; 2021;* [DOI: 10.3390/pharmaceutics13101720](https://doi.org/10.3390/pharmaceutics13101720) (Co-Authors).
