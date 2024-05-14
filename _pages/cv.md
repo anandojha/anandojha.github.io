@@ -162,25 +162,6 @@ Curriculum vitae - Anupam Anand Ojha
 ### ix. Innovation in Science Pursuit for Inspired Research (INSPIRE) Fellowship (2012-2017)
 - $5,000 fellowship from Govt. of India for outstanding undergraduate students for five years.
 
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 # Positions of Responsibilities
 <hr style="height: 4px; border: none; background-color: black;">
 
@@ -201,4 +182,25 @@ Mentor for underrepresented undergraduate students to work closely towards a res
 
 ### vi. September 2021 - May 2022: Graduate Student Representative at UC San Diego Senate for Academic Freedom
 Actively contributing to a committee tasked with examining and addressing factors impacting the academic freedom of university members.
+
+
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Talks
+======
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html  %}
+  {% endfor %}</ul>
+  
+Teaching
+======
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+
 
