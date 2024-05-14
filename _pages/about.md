@@ -17,11 +17,11 @@ During my undergraduate studies, my research focused on interdisciplinary scienc
 
 ### Publications
 
-<span style="color:red"> i. Halali V. Vishaka, Manav Saxena, H. R. Chandan, Anupam Ojha, and R. Geetha Balakrishna. "Paper based field deployable sensor for naked eye monitoring of copper (II) ions; elucidation of binding mechanism by DFT studies." *Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy, Elsevier; 2019;* [DOI: 10.1016/j.saa.2019.117291](https://doi.org/10.1016/j.saa.2019.117291).
+<span style="color:red"> <small> Halali V. Vishaka, Manav Saxena, H. R. Chandan, Anupam Ojha, and R. Geetha Balakrishna. "Paper based field deployable sensor for naked eye monitoring of copper (II) ions; elucidation of binding mechanism by DFT studies." *Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy, Elsevier; 2019;* [DOI: 10.1016/j.saa.2019.117291](https://doi.org/10.1016/j.saa.2019.117291). </small></span>
 
-<span style="color:red"> ii. Asha Pankajakshan, Mekhola Sinha, Anupam Ojha, and Sukhendu Mandal. "Water-stable nanoscale zirconium-based metal–organic frameworks for the effective removal of glyphosate from aqueous media." *ACS Omega, ACS; 2018;* [DOI: 10.1021/acsomega.8b00921](https://doi.org/10.1021/acsomega.8b00921).
+<span style="color:red"> <small> Asha Pankajakshan, Mekhola Sinha, Anupam Ojha, and Sukhendu Mandal. "Water-stable nanoscale zirconium-based metal–organic frameworks for the effective removal of glyphosate from aqueous media." *ACS Omega, ACS; 2018;* [DOI: 10.1021/acsomega.8b00921](https://doi.org/10.1021/acsomega.8b00921). </small></span>
 
-<span style="color:red"> iii. Prabu Mani, Anupam Ojha, Vennapusa Sivaranjana Reddy, and Sukhendu Mandal. "Turn-on fluorescence sensing and discriminative detection of aliphatic amines using a 5-fold-interpenetrated coordination polymer." *Inorganic Chemistry, ACS; 2017;* [DOI: 10.1021/acs.inorgchem.7b00787](https://doi.org/10.1021/acs.inorgchem.7b00787).
+<span style="color:red"> <small> Prabu Mani, Anupam Ojha, Vennapusa Sivaranjana Reddy, and Sukhendu Mandal. "Turn-on fluorescence sensing and discriminative detection of aliphatic amines using a 5-fold-interpenetrated coordination polymer." *Inorganic Chemistry, ACS; 2017;* [DOI: 10.1021/acs.inorgchem.7b00787](https://doi.org/10.1021/acs.inorgchem.7b00787). </small></span>
 
 ## Graduate Career (Ph.D. Research)
 
@@ -33,7 +33,7 @@ The QMrebind method improves the accuracy of multiscale milestoning simulations 
 
 ## Publications
 
-<span style="color:red"> Anupam Anand Ojha, Lane William Votapka, and Rommie Amaro. "QMrebind: Incorporating quantum mechanical force field reparameterization at the ligand binding site for improved drug-target kinetics through milestoning simulations." *Chemical Science, RSC; 2023;* [DOI: 10.1039/D3SC04195F](https://doi.org/10.1039/D3SC04195F).
+<span style="color:red"> <small> Anupam Anand Ojha, Lane William Votapka, and Rommie Amaro. "QMrebind: Incorporating quantum mechanical force field reparameterization at the ligand binding site for improved drug-target kinetics through milestoning simulations." *Chemical Science, RSC; 2023;* [DOI: 10.1039/D3SC04195F](https://doi.org/10.1039/D3SC04195F). </small></span>
 
 ### DeepWEST: Deep Learning of Kinetic Models with the Weighted Ensemble Simulation Toolkit for Enhanced Sampling
 
@@ -41,7 +41,7 @@ The DeepWEST approach is a novel method that combines deep-learned Markov state 
 
 ### Publications
 
-<span style="color:red"> Anupam Ojha, Saumya Thakur, Surl-Hee Ahn, and Rommie E. Amaro. "DeepWEST: Deep Learning of Kinetic Models with the Weighted Ensemble Simulation Toolkit for Enhanced Sampling." *Journal of Chemical Theory and Computation, ACS; 2023;* [DOI: 10.1021/acs.jctc.2c00282](https://doi.org/10.1021/acs.jctc.2c00282).
+<span style="color:red"> <small> Anupam Ojha, Saumya Thakur, Surl-Hee Ahn, and Rommie E. Amaro. "DeepWEST: Deep Learning of Kinetic Models with the Weighted Ensemble Simulation Toolkit for Enhanced Sampling." *Journal of Chemical Theory and Computation, ACS; 2023;* [DOI: 10.1021/acs.jctc.2c00282](https://doi.org/10.1021/acs.jctc.2c00282). </small></span>
 
 ### Selectivity and rank ordering of tight-binding JAK-STAT pathway inhibitors using Markovian milestoning with Voronoi tessellation simulations
 
@@ -49,7 +49,7 @@ A multiscale simulation method, i.e., Markovian milestoning with Voronoi tessell
 
 ### Publications
 
-<span style="color:red"> Anupam Ojha, Ambuj Srivastava, Lane Votapka, and Rommie Amaro. "Selectivity and rank ordering of tight-binding JAK-STAT pathway inhibitors using Markovian milestoning with Voronoi tessellation simulations." *Journal of Chemical Information and Modeling, ACS; 2023;* [DOI: 10.1021/acs.jcim.2c01589](https://doi.org/10.1021/acs.jcim.2c01589).
+<span style="color:red"> <small> Anupam Ojha, Ambuj Srivastava, Lane Votapka, and Rommie Amaro. "Selectivity and rank ordering of tight-binding JAK-STAT pathway inhibitors using Markovian milestoning with Voronoi tessellation simulations." *Journal of Chemical Information and Modeling, ACS; 2023;* [DOI: 10.1021/acs.jcim.2c01589](https://doi.org/10.1021/acs.jcim.2c01589). </small></span>
 
 ### Gaussian-Accelerated Molecular Dynamics with the Weighted Ensemble Method: A Hybrid Method Improves Thermodynamic and Kinetic Sampling
 
@@ -57,7 +57,7 @@ GaMD-WE is a novel hybrid sampling method combining Gaussian-accelerated molecul
 
 ### Publications
 
-<span style="color:red"> Surl-Hee Ahn, Anupam Ojha, Rommie E. Amaro, and J. Andrew McCammon. "Gaussian-Accelerated Molecular Dynamics with the Weighted Ensemble Method: A Hybrid Method Improves Thermodynamic and Kinetic Sampling." *Journal of Chemical Theory and Computation, ACS; 2021;* [DOI: 10.1021/acs.jctc.1c00770](https://doi.org/10.1021/acs.jctc.1c00770) (Co-Authors).
+<span style="color:red"> <small> Surl-Hee Ahn, Anupam Ojha, Rommie E. Amaro, and J. Andrew McCammon. "Gaussian-Accelerated Molecular Dynamics with the Weighted Ensemble Method: A Hybrid Method Improves Thermodynamic and Kinetic Sampling." *Journal of Chemical Theory and Computation, ACS; 2021;* [DOI: 10.1021/acs.jctc.1c00770](https://doi.org/10.1021/acs.jctc.1c00770) (Co-Authors). </small></span>
 
 ### Predicting ligand binding kinetics using a Markovian milestoning with Voronoi tessellations multiscale approach
 
@@ -65,16 +65,16 @@ In 2017, we introduced a novel implementation of a Markovian milestoning with Vo
 
 ### Publications
 
-<span style="color:red"> i. Anupam Ojha, Lane Votapka, Gary Huber, Shang Gao, and Rommie Amaro. "An introductory tutorial to the SEEKR2 (Simulation enabled estimation of kinetic rates v. 2) multiscale milestoning software." *Living Journal of Computational Molecular Science; 2024;* [DOI: l10.33011/livecoms.5.1.2359](https://doi.org/l10.33011/livecoms.5.1.2359).
+<span style="color:red"> <small> Anupam Ojha, Lane Votapka, Gary Huber, Shang Gao, and Rommie Amaro. "An introductory tutorial to the SEEKR2 (Simulation enabled estimation of kinetic rates v. 2) multiscale milestoning software." *Living Journal of Computational Molecular Science; 2024;* [DOI: l10.33011/livecoms.5.1.2359](https://doi.org/l10.33011/livecoms.5.1.2359). </small></span>
 
-<span style="color:red"> ii. Lane Votapka, Andrew Stokely, Anupam Ojha, and Rommie Amaro. "SEEKR2: Versatile Multiscale Milestoning Utilizing the OpenMM Molecular Dynamics Engine." *Journal of Chemical Information and Modeling, ACS; 2022;* [DOI: 10.1021/acs.jcim.2c00501](https://doi.org/10.1021/acs.jcim.2c00501).
+<span style="color:red"> <small> Lane Votapka, Andrew Stokely, Anupam Ojha, and Rommie Amaro. "SEEKR2: Versatile Multiscale Milestoning Utilizing the OpenMM Molecular Dynamics Engine." *Journal of Chemical Information and Modeling, ACS; 2022;* [DOI: 10.1021/acs.jcim.2c00501](https://doi.org/10.1021/acs.jcim.2c00501). </small></span>
 
-<span style="color:red"> iii. Benjamin R. Jagger, Anupam Ojha, and Rommie Amaro. "Predicting ligand binding kinetics using a Markovian milestoning with Voronoi tessellations multiscale approach." *Journal of Chemical Theory and Computation, ACS; 2020;* [DOI: 10.1021/acs.jctc.0c00495](https://doi.org/10.1021/acs.jctc.0c00495).
+<span style="color:red"> <small> Benjamin R. Jagger, Anupam Ojha, and Rommie Amaro. "Predicting ligand binding kinetics using a Markovian milestoning with Voronoi tessellations multiscale approach." *Journal of Chemical Theory and Computation, ACS; 2020;* [DOI: 10.1021/acs.jctc.0c00495](https://doi.org/10.1021/acs.jctc.0c00495). </small></span>
 
 ### Other Noteworthy Publications
 
-<span style="color:red"> i. Xandra Nuqui, Lorenzo Casalino, Ling Zhou, Mohamed Shehata, Albert Wang, Alexandra L. Tse, Anupam Ojha, Fiona L. Kearns, Mia A. Rosenfeld, Emily Happy Miller, Cory M. Acreman, Surl-Hee Ahn, Kartik Chandran, Jason S. McLellan, Rommie E Amaro. "Simulation-Driven Design of Stabilized SARS-CoV-2 Spike S2 Immunogens." *bioRxiv; 2023;* [DOI: 10.1101/2023.10.24.563841](https://doi.org/10.1101/2023.10.24.563841).
+<span style="color:red"> <small> Xandra Nuqui, Lorenzo Casalino, Ling Zhou, Mohamed Shehata, Albert Wang, Alexandra L. Tse, Anupam Ojha, Fiona L. Kearns, Mia A. Rosenfeld, Emily Happy Miller, Cory M. Acreman, Surl-Hee Ahn, Kartik Chandran, Jason S. McLellan, Rommie E Amaro. "Simulation-Driven Design of Stabilized SARS-CoV-2 Spike S2 Immunogens." *bioRxiv; 2023;* [DOI: 10.1101/2023.10.24.563841](https://doi.org/10.1101/2023.10.24.563841). </small></span>
 
-<span style="color:red"> ii. Anisha Nigam, Jeremiah D. Momper, Anupam Ojha, and Sanjay Nigam. "Distinguishing Molecular Properties of OAT, OATP, and MRP Drug Substrates by Machine Learning." *Pharmaceutics, MDPI; 2024;* [DOI: 10.3390/pharmaceutics16050592](https://doi.org/10.3390/pharmaceutics16050592).
+<span style="color:red"> Anisha Nigam, Jeremiah D. Momper, Anupam Ojha, and Sanjay Nigam. "Distinguishing Molecular Properties of OAT, OATP, and MRP Drug Substrates by Machine Learning." *Pharmaceutics, MDPI; 2024;* [DOI: 10.3390/pharmaceutics16050592](https://doi.org/10.3390/pharmaceutics16050592). </small></span>
 
-<span style="color:red"> iii. Anisha K. Nigam, Anupam Ojha, Julia G. Li, Da Shi, Vibha Bhatnagar, Kabir B. Nigam, Ruben Abagyan, and Sanjay K. Nigam. "Molecular Properties of Drugs Handled by Kidney OATs and Liver OATPs Revealed by Chemoinformatics and Machine Learning: Implications for Kidney and Liver Disease." *Pharmaceutics, MDPI; 2021;* [DOI: 10.3390/pharmaceutics13101720](https://doi.org/10.3390/pharmaceutics13101720) (Co-Authors).
+<span style="color:red"> <small> Anisha K. Nigam, Anupam Ojha, Julia G. Li, Da Shi, Vibha Bhatnagar, Kabir B. Nigam, Ruben Abagyan, and Sanjay K. Nigam. "Molecular Properties of Drugs Handled by Kidney OATs and Liver OATPs Revealed by Chemoinformatics and Machine Learning: Implications for Kidney and Liver Disease." *Pharmaceutics, MDPI; 2021;* [DOI: 10.3390/pharmaceutics13101720](https://doi.org/10.3390/pharmaceutics13101720) (Co-Authors). </small></span>
