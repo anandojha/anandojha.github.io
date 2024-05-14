@@ -17,11 +17,11 @@ During my undergraduate studies, my research focused on interdisciplinary scienc
 
 ### Publications
 
-i. Halali V. Vishaka, Manav Saxena, H. R. Chandan, Anupam Ojha, and R. Geetha Balakrishna. "Paper based field deployable sensor for naked eye monitoring of copper (II) ions; elucidation of binding mechanism by DFT studies." *Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy, Elsevier; 2019;* [DOI: 10.1016/j.saa.2019.117291](https://doi.org/10.1016/j.saa.2019.117291).
+<span style="color:red"> i. Halali V. Vishaka, Manav Saxena, H. R. Chandan, Anupam Ojha, and R. Geetha Balakrishna. "Paper based field deployable sensor for naked eye monitoring of copper (II) ions; elucidation of binding mechanism by DFT studies." *Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy, Elsevier; 2019;* [DOI: 10.1016/j.saa.2019.117291](https://doi.org/10.1016/j.saa.2019.117291).
 
-ii. Asha Pankajakshan, Mekhola Sinha, Anupam Ojha, and Sukhendu Mandal. "Water-stable nanoscale zirconium-based metal–organic frameworks for the effective removal of glyphosate from aqueous media." *ACS Omega, ACS; 2018;* [DOI: 10.1021/acsomega.8b00921](https://doi.org/10.1021/acsomega.8b00921).
+<span style="color:red"> ii. Asha Pankajakshan, Mekhola Sinha, Anupam Ojha, and Sukhendu Mandal. "Water-stable nanoscale zirconium-based metal–organic frameworks for the effective removal of glyphosate from aqueous media." *ACS Omega, ACS; 2018;* [DOI: 10.1021/acsomega.8b00921](https://doi.org/10.1021/acsomega.8b00921).
 
-iii. Prabu Mani, Anupam Ojha, Vennapusa Sivaranjana Reddy, and Sukhendu Mandal. "Turn-on fluorescence sensing and discriminative detection of aliphatic amines using a 5-fold-interpenetrated coordination polymer." *Inorganic Chemistry, ACS; 2017;* [DOI: 10.1021/acs.inorgchem.7b00787](https://doi.org/10.1021/acs.inorgchem.7b00787).
+<span style="color:red"> iii. Prabu Mani, Anupam Ojha, Vennapusa Sivaranjana Reddy, and Sukhendu Mandal. "Turn-on fluorescence sensing and discriminative detection of aliphatic amines using a 5-fold-interpenetrated coordination polymer." *Inorganic Chemistry, ACS; 2017;* [DOI: 10.1021/acs.inorgchem.7b00787](https://doi.org/10.1021/acs.inorgchem.7b00787).
 
 ## Graduate Career (Ph.D. Research)
 
@@ -33,7 +33,7 @@ The QMrebind method improves the accuracy of multiscale milestoning simulations 
 
 ## Publications
 
-Anupam Anand Ojha, Lane William Votapka, and Rommie Amaro. "QMrebind: Incorporating quantum mechanical force field reparameterization at the ligand binding site for improved drug-target kinetics through milestoning simulations." *Chemical Science, RSC; 2023;* [DOI: 10.1039/D3SC04195F](https://doi.org/10.1039/D3SC04195F).
+<span style="color:red"> Anupam Anand Ojha, Lane William Votapka, and Rommie Amaro. "QMrebind: Incorporating quantum mechanical force field reparameterization at the ligand binding site for improved drug-target kinetics through milestoning simulations." *Chemical Science, RSC; 2023;* [DOI: 10.1039/D3SC04195F](https://doi.org/10.1039/D3SC04195F).
 
 ### DeepWEST: Deep Learning of Kinetic Models with the Weighted Ensemble Simulation Toolkit for Enhanced Sampling
 
@@ -41,7 +41,7 @@ The DeepWEST approach is a novel method that combines deep-learned Markov state 
 
 ### Publications
 
-Anupam Ojha, Saumya Thakur, Surl-Hee Ahn, and Rommie E. Amaro. "DeepWEST: Deep Learning of Kinetic Models with the Weighted Ensemble Simulation Toolkit for Enhanced Sampling." *Journal of Chemical Theory and Computation, ACS; 2023;* [DOI: 10.1021/acs.jctc.2c00282](https://doi.org/10.1021/acs.jctc.2c00282).
+<span style="color:red"> Anupam Ojha, Saumya Thakur, Surl-Hee Ahn, and Rommie E. Amaro. "DeepWEST: Deep Learning of Kinetic Models with the Weighted Ensemble Simulation Toolkit for Enhanced Sampling." *Journal of Chemical Theory and Computation, ACS; 2023;* [DOI: 10.1021/acs.jctc.2c00282](https://doi.org/10.1021/acs.jctc.2c00282).
 
 ### Selectivity and rank ordering of tight-binding JAK-STAT pathway inhibitors using Markovian milestoning with Voronoi tessellation simulations
 
@@ -49,7 +49,7 @@ A multiscale simulation method, i.e., Markovian milestoning with Voronoi tessell
 
 ### Publications
 
-Anupam Ojha, Ambuj Srivastava, Lane Votapka, and Rommie Amaro. "Selectivity and rank ordering of tight-binding JAK-STAT pathway inhibitors using Markovian milestoning with Voronoi tessellation simulations." *Journal of Chemical Information and Modeling, ACS; 2023;* [DOI: 10.1021/acs.jcim.2c01589](https://doi.org/10.1021/acs.jcim.2c01589).
+<span style="color:red"> Anupam Ojha, Ambuj Srivastava, Lane Votapka, and Rommie Amaro. "Selectivity and rank ordering of tight-binding JAK-STAT pathway inhibitors using Markovian milestoning with Voronoi tessellation simulations." *Journal of Chemical Information and Modeling, ACS; 2023;* [DOI: 10.1021/acs.jcim.2c01589](https://doi.org/10.1021/acs.jcim.2c01589).
 
 ### Gaussian-Accelerated Molecular Dynamics with the Weighted Ensemble Method: A Hybrid Method Improves Thermodynamic and Kinetic Sampling
 
@@ -57,7 +57,7 @@ GaMD-WE is a novel hybrid sampling method combining Gaussian-accelerated molecul
 
 ### Publications
 
-Surl-Hee Ahn, Anupam Ojha, Rommie E. Amaro, and J. Andrew McCammon. "Gaussian-Accelerated Molecular Dynamics with the Weighted Ensemble Method: A Hybrid Method Improves Thermodynamic and Kinetic Sampling." *Journal of Chemical Theory and Computation, ACS; 2021;* [DOI: 10.1021/acs.jctc.1c00770](https://doi.org/10.1021/acs.jctc.1c00770) (Co-Authors).
+<span style="color:red"> Surl-Hee Ahn, Anupam Ojha, Rommie E. Amaro, and J. Andrew McCammon. "Gaussian-Accelerated Molecular Dynamics with the Weighted Ensemble Method: A Hybrid Method Improves Thermodynamic and Kinetic Sampling." *Journal of Chemical Theory and Computation, ACS; 2021;* [DOI: 10.1021/acs.jctc.1c00770](https://doi.org/10.1021/acs.jctc.1c00770) (Co-Authors).
 
 ### Predicting ligand binding kinetics using a Markovian milestoning with Voronoi tessellations multiscale approach
 
