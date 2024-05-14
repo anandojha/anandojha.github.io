@@ -151,23 +151,28 @@ Curriculum vitae - Anupam Anand Ojha
 <hr style="height: 4px; border: none; background-color: black;">
 
 ### November 2022 – Present: Reviewer for the Journal of Biomolecular Structure and Dynamics
+*November 2022 - Present*
 Reviewer for the Journal of Biomolecular Structure and Dynamics.
 
-### July 2023 - June 2024: UC San Diego Chemistry International Friendship Group (CIFG) representative
+### UC San Diego Chemistry International Friendship Group (CIFG) representative
+*July 2023 - June 2024*
 Contributing to a community of international graduate students in fostering camaraderie and support.
 
-### July 2023 - June 2024: UC San Diego Chemistry Graduate Student Council (CGSC) representative
+### UC San Diego Chemistry Graduate Student Council (CGSC) representative
+*July 2023 - June 2024*
 Advocating for graduate students through engagement in department meetings, seminar organization, and social events.
 
 ### September 2019 - May 2020: UC San Diego Chemistry Graduate Student Council (CGSC) representative
+*September 2019 - May 2020*
 Advocating for graduate students through engagement in department meetings, seminar organization, and social events.
 
-### January 2023 - April 2023: UC San Diego EXperiential Projects for Accelerated Networking and Development (EXPAND) mentor
+### UC San Diego EXperiential Projects for Accelerated Networking and Development (EXPAND) mentor
+*January 2023 - April 2023*
 Mentor for underrepresented undergraduate students to work closely towards a research project.
 
-### September 2021 - May 2022: Graduate Student Representative at UC San Diego Senate for Academic Freedom
+### Graduate Student Representative at UC San Diego Senate for Academic Freedom
+*September 2021 - May 2022*
 Actively contributing to a committee tasked with examining and addressing factors impacting the academic freedom of university members.
-
 
 Publications
 ======
@@ -175,7 +180,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Invited Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
