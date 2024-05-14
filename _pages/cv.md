@@ -19,7 +19,7 @@ Curriculum vitae - Anupam Anand Ojha
 **University of California, San Diego**  
 *September 2019 - June 2024*
 
-#### Awards and Fellowships
+### Awards and Fellowships
 - **2024** Merck Research Award for Underrepresented Chemists of Color
 - **2023** Merkin Graduate Fellowship
 - **2023** Teddy Traylor Award
@@ -31,7 +31,7 @@ Curriculum vitae - Anupam Anand Ojha
 **Indian Institute of Science Education and Research (IISER), Thiruvananthapuram**  
 *August 2012 – June 2017*
 
-#### Fellowships
+### Fellowships
 - **2012-2017** Innovation in Science Pursuit for Inspired Research (INSPIRE) Fellowship
 - **2017** Swiss Government Excellence Scholarship
 
