@@ -36,7 +36,7 @@ The QMrebind method improves the accuracy of multiscale milestoning simulations 
 
 ### Publications
 
-<medium> Anupam Anand Ojha, Lane William Votapka, and Rommie Amaro. "QMrebind: Incorporating quantum mechanical force field reparameterization at the ligand binding site for improved drug-target kinetics through milestoning simulations." *Chemical Science, RSC; 2023;* [DOI: 10.1039/D3SC04195F](https://doi.org/10.1039/D3SC04195F). 
+<small> Anupam Anand Ojha, Lane William Votapka, and Rommie Amaro. "QMrebind: Incorporating quantum mechanical force field reparameterization at the ligand binding site for improved drug-target kinetics through milestoning simulations." *Chemical Science, RSC; 2023;* [DOI: 10.1039/D3SC04195F](https://doi.org/10.1039/D3SC04195F). 
 
 ### ii. DeepWEST: Deep Learning of Kinetic Models with the Weighted Ensemble Simulation Toolkit for Enhanced Sampling
 
