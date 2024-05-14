@@ -131,10 +131,14 @@ The Merck Research Award for Underrepresented Chemists of Color exemplifies Merc
 The Merkin Graduate Fellows Program offers a unique opportunity for UC San Diego graduate students to conduct innovative research abroad in areas related to human health and longevity. As a Merkin Graduate Fellow, students collaborate with researchers globally, aiming to drive bold advancements in medical research and clinical applications while shaping their personal and professional trajectory. This prestigious award includes a monthly stipend, funding for travel, and tuition coverage, enabling them to pursue transformative experiences in translational medicine.
 
 ### Teddy Traylor Award, UC San Diego (2023)
-- $3,000 fellowship recognizing outstanding research excellence and financial support to attend scholarly conferences and meetings.
+**$3,000 fellowship recognizing outstanding research excellence and financial support to attend scholarly conferences and meetings.**
+
+This merit-based award recognizes research excellence and was set up by Dr. Traylor's colleagues and friends to honor his memory. The $3000 award assists bright, young investigators in pursuing their studies and traveling to scholarly meetings. 
 
 ### Distinguished Graduate Student Fellowship (2022)
-- $17,000 fellowship acknowledging exceptional research, providing comprehensive financial support for university fees and a research travel grant.
+**$17,000 fellowship acknowledging exceptional research, providing comprehensive financial support for university fees, and a research travel grant.**
+
+The Department of Chemistry and Biochemistry at UC San Diego established the Distinguished Graduate Student Fellowship to recognize research excellence. This prestigious fellowship provides one-quarter of fellowship support (stipends and fees), as well as an additional $3,000 bonus for the Fellow to use towards research support.
 
 ### Bonnie Reiss Carbon Neutrality Student Fellowship (2021)
 **$4,000 fellowship for contributing to the university goal of achieving zero net greenhouse gas emissions by 2025.**
@@ -142,16 +146,24 @@ The Merkin Graduate Fellows Program offers a unique opportunity for UC San Diego
 The UC President’s Bonnie Reiss Climate Action Fellowship Program empowers students to lead initiatives that advance the UC system's climate action objectives. Open to both undergraduate and graduate students across all UC campuses, academic health centers, and affiliated institutions, this program fosters innovation and collaboration to address local climate challenges. Named in honor of the late Regent Bonnie Reiss, a fervent advocate for climate mitigation, the fellowship ensures that students' efforts contribute to her enduring legacy of environmental stewardship.
 
 ### Friends of the International Center Fellowship (2021)
-- $2,000 fellowship for outstanding graduate students pursuing international education, fostering friendship and cooperation within the global community.
+**$2,000 fellowship for outstanding graduate students pursuing international education, fostering friendship and cooperation within the global community.**
+
+Founded in 1961, the Friends of the International Center (Friends) Fellowship supports international education at UCSD in numerous ways, one of which is raising money for and awarding student scholarships. The fellowship awards a stipend of $2,000 to a selected number of outstanding graduate students. 
 
 ### Molecular Sciences Software Institute 2021-A "SEED" Software Fellowship (2021)
-- $42,057 fellowship to outstanding software scientists in biomolecular and macromolecular simulation, quantum chemistry and materials science.
+**$42,057 fellowship to outstanding software scientists in biomolecular and macromolecular simulation, quantum chemistry, and materials science.**
+
+The Molecular Sciences Software Institute (MolSSI) fellowship is an esteemed six-month fellowship that recognizes exceptional graduate students dedicated to advancing software infrastructure in computational molecular sciences, including biomolecular and macromolecular simulation, quantum chemistry, and materials science. Fellows collaborate with MolSSI scientists to implement best practices in computational science, ensuring the robustness of their projects. They also receive specialized training in cutting-edge software design principles and tools, and participate in outreach and educational activities organized by MolSSI. 
 
 ### Swiss Government Excellence Scholarship (2017)
-- $26,317 fellowship from Govt. of Switzerland for outstanding researchers to conduct one-year research at ETH Zurich.
+**$26,317 fellowship from Govt. of Switzerland for outstanding researchers to conduct one-year research at ETH Zurich.**
+
+The Swiss Government Excellence Scholarships, awarded annually by the Swiss Confederation, facilitate international exchange and research collaboration between Switzerland and over 180 countries. These prestigious scholarships target young researchers and artists from abroad, offering opportunities for advanced studies and research in various fields including biomolecular and macromolecular simulation, quantum chemistry, and materials science. Administered by the Federal Commission for Scholarships for Foreign Students (FCS), the program provides specialized training, mentorship, and networking opportunities to recipients, ensuring the continued promotion of academic and scientific excellence.
 
 ### Innovation in Science Pursuit for Inspired Research (INSPIRE) Fellowship (2012-2017)
-- $5,000 fellowship from Govt. of India for outstanding undergraduate students for five years.
+**$5,000 fellowship from Govt. of India for outstanding undergraduate students for five years.**
+
+The Innovation in Science Pursuit for Inspired Research (INSPIRE) fellowship, sponsored by the Department of Science and Technology (DST) India, is dedicated to nurturing outstanding young talents and strengthening India's science and technology landscape. The INSPIRE fellowship offers students a unique opportunity to pursue their passion for basic and natural sciences. These scholarships target students at the undergraduate and postgraduate levels who aspire to build careers in research. Selected candidates for the fellowship receive substantial financial support, including a monthly stipend to cover living expenses and a summer research project grant, which provides an opportunity for hands-on research experience. The scholarship is tenable for a maximum of five years, covering undergraduate and graduate studies. 
 
 # Positions of Responsibilities
 <hr style="height: 4px; border: none; background-color: black;">
