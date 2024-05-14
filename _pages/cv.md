@@ -122,12 +122,17 @@ Curriculum vitae - Anupam Anand Ojha
 
 ### Merck Research Award for Underrepresented Chemists of Color (2024)
 - This award recognizes significant contributions to chemical sciences and commitment to diversity in the field.
+- Merck's launch of the Research Award for Underrepresented Chemists of Color underscores its commitment to fostering diversity and inclusion in the scientific community, offering career development and networking opportunities to support rising chemists of color.
 
 ### Merkin Graduate Fellowship, UC San Diego (2023)
-- $50,000 fellowship recognizing outstanding research excellence and financial support for conducting translational medicine research abroad and building international collaborations.
+** $50,000 fellowship recognizing outstanding research excellence and financial support for conducting translational medicine research abroad and building international collaborations.**
+
+The Merkin Graduate Fellows Program offers a unique opportunity for UC San Diego graduate students to conduct innovative research abroad in areas related to human health and longevity. As a Merkin Graduate Fellow, students collaborate with researchers globally, aiming to drive bold advancements in medical research and clinical applications while shaping their personal and professional trajectory. This prestigious award includes a monthly stipend, funding for travel, and tuition coverage, enabling them to pursue transformative experiences in translational medicine.
 
 ### Teddy Traylor Award, UC San Diego (2023)
 - $3,000 fellowship recognizing outstanding research excellence and financial support to attend scholarly conferences and meetings.
+
+The Merck Research Award for Underrepresented Chemists of Color exemplifies Merck's commitment to fostering diversity and inclusion in the scientific community. This prestigious award recognizes the outstanding contributions of young researchers to chemical sciences and provides opportunities for career development and networking within the scientific community. Award recipients gain access to mentorship from experienced professionals at Merck, who provide guidance, feedback, and valuable connections relevant to their research. Award recipients present their work at an award symposium, where they showcase their research to peers and mentors. 
 
 ### Distinguished Graduate Student Fellowship (2022)
 - $17,000 fellowship acknowledging exceptional research, providing comprehensive financial support for university fees and a research travel grant.
