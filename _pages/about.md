@@ -6,10 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<hr style="height: 2px;">
 
 I am a final-year doctoral researcher at the University of California San Diego in the Department of Chemistry and Biochemistry, specializing in theoretical and computational biophysics. My research focuses on developing novel methodologies to accurately predict the kinetics and thermodynamics of complex biomolecular systems. Leveraging multiscale milestoning simulation approaches, enhanced molecular dynamics sampling, deep learning algorithms, and precise estimates of force field parameters for drug-target complexes, I aim to significantly reduce the computational cost while maintaining high accuracy in predicting the kinetics and thermodynamics of complex biomolecular processes. My work includes modeling and estimating drug-target binding and unbinding kinetics, estimating protein folding kinetics, and applying deep-learning and enhanced sampling methods for studying biomolecular complexes, which hold immense promise in drug discovery and development research. My interdisciplinary background, from quantum mechanics to molecular dynamics and machine learning, equips me with a versatile skill set to tackle these challenges effectively. Furthermore, my commitment to fostering diversity, equity, and inclusion in academia is deeply rooted in my academic journey. As representatives of the Chemistry Graduate Student Council, Chemistry International Friendship Group, and Academic Senate committees, I have prioritized ensuring that every perspective is valued and heard, irrespective of one's background. I have worked to integrate international graduate students into our academic community, organized informational sessions, and helped international students find research labs and industry mentors. Beyond academia, I have contributed to sustainability efforts by introducing green computing practices on campus, aligning with UC San Diego's goal of achieving carbon neutrality. My passion for mentorship has led me to guide undergraduate students, breaking down hierarchical barriers and creating equal opportunities in academia. As I aspire to continue my academic trajectory as an independent researcher and further promote ethical and equitable practices, I remain dedicated to fostering an inclusive and diverse academic landscape.
 
 # Contributions to Science
+
+<hr style="height: 2px;">
 
 ## Early Career (Undergraduate and Master's Research)
 
