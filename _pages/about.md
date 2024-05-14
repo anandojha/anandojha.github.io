@@ -73,9 +73,9 @@ iii. Benjamin R. Jagger, Anupam Ojha, and Rommie Amaro. "Predicting ligand bindi
 
 ### Other Noteworthy Publications
 
-i. Xandra Nuqui, Lorenzo Casalino, Ling Zhou, Mohamed Shehata, Albert Wang, Alexandra L. Tse, Anupam Ojha, Fiona L. Kearns, Mia A. Rosenfeld, Emily Happy Miller, Cory M. Acreman, Surl-Hee Ahn, Kartik Chandran, Jason S. McLellan, Rommie E Amaro. "Simulation-Driven Design of Stabilized SARS-CoV-2 Spike S2 Immunogens." bioRxiv; 2023; DOI: 10.1101/2023.10.24.563841.
+<span style="color:red"> i. Xandra Nuqui, Lorenzo Casalino, Ling Zhou, Mohamed Shehata, Albert Wang, Alexandra L. Tse, Anupam Ojha, Fiona L. Kearns, Mia A. Rosenfeld, Emily Happy Miller, Cory M. Acreman, Surl-Hee Ahn, Kartik Chandran, Jason S. McLellan, Rommie E Amaro. "Simulation-Driven Design of Stabilized SARS-CoV-2 Spike S2 Immunogens." bioRxiv; 2023; DOI: 10.1101/2023.10.24.563841.
 
-ii. Anisha Nigam, Jeremiah D. Momper, Anupam Ojha, and Sanjay Nigam. "Distinguishing Molecular Properties of OAT, OATP, and MRP Drug Substrates by Machine Learning." Pharmaceutics, MDPI; 2024; DOI: 10.3390/pharmaceutics16050592.
+<span style="color:red"> ii. Anisha Nigam, Jeremiah D. Momper, Anupam Ojha, and Sanjay Nigam. "Distinguishing Molecular Properties of OAT, OATP, and MRP Drug Substrates by Machine Learning." Pharmaceutics, MDPI; 2024; DOI: 10.3390/pharmaceutics16050592.
 
-iii. Anisha K. Nigam, Anupam Ojha, Julia G. Li, Da Shi, Vibha Bhatnagar, Kabir B. Nigam, Ruben Abagyan, and Sanjay K. Nigam. "Molecular Properties of Drugs Handled by Kidney OATs and Liver OATPs Revealed by Chemoinformatics and Machine Learning: Implications for Kidney and Liver Disease." Pharmaceutics, MDPI; 2021; DOI: 10.3390/pharmaceutics13101720 (Co-Authors).
+<span style="color:red"> iii. Anisha K. Nigam, Anupam Ojha, Julia G. Li, Da Shi, Vibha Bhatnagar, Kabir B. Nigam, Ruben Abagyan, and Sanjay K. Nigam. "Molecular Properties of Drugs Handled by Kidney OATs and Liver OATPs Revealed by Chemoinformatics and Machine Learning: Implications for Kidney and Liver Disease." Pharmaceutics, MDPI; 2021; DOI: 10.3390/pharmaceutics13101720 (Co-Authors).
 
