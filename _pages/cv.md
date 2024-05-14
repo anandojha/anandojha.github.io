@@ -16,22 +16,22 @@ Curriculum vitae - Anupam Anand Ojha
 <hr style="height: 4px; border: none; background-color: black;">
 
 ### Doctor of Philosophy in Chemistry, University of California San Diego, CA, USA
-*September 2019 - June 2024*
+**September 2019 - June 2024**
 
-### Awards and Fellowships
-**2024** Merck Research Award for Underrepresented Chemists of Color
-**2023** Merkin Graduate Fellowship
-**2023** Teddy Traylor Award
-**2022** Distinguished Graduate Student Fellowship
-**2021** Bonnie Reiss Carbon Neutrality Student Fellowship
-**2021** Friends of the International Center Fellowship
+- CGPA 4.0/4.0
+- Merck Research Awardee for Underrepresented Chemists of Color (2024)
+- Merkin Graduate Fellow (2023)
+- Teddy Traylor Awardee (2023)
+- Distinguished Graduate Student Fellow (2022)
+- Bonnie Reiss Carbon Neutrality Student Fellow (2021)
+- Friends of the International Center Fellow (2021)
 
-### BS-MS Dual Degree, Indian Institute of Science Education and Research (IISER) Thiruvananthapuram, KL, India
-*August 2012 – June 2017*
+### BS-MS, Indian Institute of Science Education and Research (IISER) Thiruvananthapuram, KL, India
+**August 2012 – June 2017**
 
-### Fellowships
-**2012-2017** Innovation in Science Pursuit for Inspired Research (INSPIRE) Fellowship
-**2017** Swiss Government Excellence Scholarship
+ - CGPA 8.6/10.0
+ - Innovation in Science Pursuit for Inspired Research (INSPIRE) Fellow (2012 - 2017)
+ - Swiss Government Excellence Fellow (2017 - 2018)
 
 ## Skills
 <hr style="height: 4px; border: none; background-color: black;">
