@@ -15,7 +15,7 @@ Curriculum vitae - Anupam Anand Ojha
 ## Education
 <hr style="height: 4px; border: none; background-color: black;">
 
-### Doctor of Philosophy in Chemistry, University of California, San Diego
+### Doctor of Philosophy in Chemistry, University of California San Diego, CA, USA
 *September 2019 - June 2024*
 
 ### Awards and Fellowships
@@ -26,7 +26,7 @@ Curriculum vitae - Anupam Anand Ojha
 **2021** Bonnie Reiss Carbon Neutrality Student Fellowship
 **2021** Friends of the International Center Fellowship
 
-### BS-MS Dual Degree, Indian Institute of Science Education and Research (IISER), Thiruvananthapuram
+### BS-MS Dual Degree, Indian Institute of Science Education and Research (IISER) Thiruvananthapuram, KL, India
 *August 2012 – June 2017*
 
 ### Fellowships
