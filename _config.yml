@@ -10,9 +10,9 @@ theme: jekyll-theme-cayman
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Anupam Anand Ojha"
+title                    : "Anupam Anand Ojha, Ph.D."
 title_separator          : "-"
-name                     : &name "Anupam Anand Ojha"
+name                     : &name "Anupam Anand Ojha, Ph.D."
 description              : &description "personal description"
 url                      : https://anandojha.github.io # the base hostname & protocol for our site 
 baseurl                  : "" # the subpath of our site, e.g. "/blog"
