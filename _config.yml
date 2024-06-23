@@ -24,8 +24,8 @@ repository               : "anandojha/anandojha.github.io"
 author:
   # Biographic information
   avatar           : "aaojha.jpeg"
-  name             : "Anupam Anand Ojha"
-  pronouns         : # example: "she/her"  
+  name             : "Anupam Anand Ojha, Ph.D."
+  pronouns         : # example: "he/him"  
   bio              : "Computational Biophysicist"
   location         : "San Diego, CA"
   employer         : "UC San Diego"
