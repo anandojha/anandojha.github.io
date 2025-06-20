@@ -1,9 +1,18 @@
- body {
-   background-color: #000 !important;
-   color:            #fff !important;
- }
- a, a:visited {
-   color: #1e90ff !important;
- }
- /* Tweak headers, cards, footers, etc., as needed */
- ```
+/* assets/css/custom.css */
+
+/* turn the whole background black and text white */
+body {
+  background-color: #000 !important;
+  color:            #fff !important;
+}
+
+/* tweak links */
+a, a:visited {
+  color: #1e90ff !important;
+}
+
+/* if you need darker cards, sidebars, etc. */
+.card, .sidebar {
+  background-color: #111 !important;
+  color:            #eee !important;
+}
