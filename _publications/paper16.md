@@ -3,7 +3,7 @@ title: "The ManifoldEM method for cryo-EM: a step-by-step breakdown accompanied 
 collection: publications
 permalink: /publication/paper16
 excerpt: 'Resolving continuous conformational heterogeneity in single-particle cryo-electron microscopy (cryo-EM) is a field in which new methods are now emerging regularly. Methods range from traditional statistical techniques to state-of-the-art neural network approaches. Such ongoing efforts continue to enhance the ability to explore and understand the continuous conformational variations in cryo-EM data. One of the first methods was the manifold embedding approach, or ManifoldEM. However, comparing it with more recent methods has been challenging due to software availability and usability issues. In this work, we introduce a modern Python implementation that is user-friendly, orders of magnitude faster than its previous versions, and designed with a developer-ready environment. This implementation allows a more thorough evaluation of the strengths and limitations of methods addressing continuous conformational heterogeneity in cryo-EM, paving the way for further community-driven improvements.'
-date: 2024-10-11
+date: 2024-02-17
 venue: 'Biological Crystallography, IUCr'
 paperurl: 'http://anandojha.github.io/files/paper16.pdf'
 citation: 'Anupam Anand Ojha, Robert Blackwell, Eduardo R. Cruz-Chú, Raison Dsouza, Miro A. Astore, Peter Schwander, and Sonya M. Hanson. "The ManifoldEM method for cryo-EM: a step-by-step breakdown accompanied by a modern Python implementation." Biological Crystallography 81, no. 3 (2025).'
