@@ -1,1 +1,1 @@
-Anupam Anand Ojha - Personal Website
+Anupam Anand Ojha, Ph.D. - Personal Website
